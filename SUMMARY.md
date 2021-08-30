@@ -240,10 +240,8 @@
 
 ## Migration and Promoting
 
----
-
-* [Export and Import API](export-and-import-api.md)
-* [Rules Import Export](rules-import-export.md)
+* [Export and Import API](migration-and-promoting/export-and-import-api.md)
+* [Rules Import Export](migration-and-promoting/rules-import-export.md)
 
 ## Data Retention
 

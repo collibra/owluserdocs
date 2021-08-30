@@ -64,15 +64,15 @@ Additional Steps in Collibra DQ include:
 
 Option A: Create New Destinations
 
-* Create New Rulebook Domain \(suggested domain type\) for DQ Rules
-  * Global Create -&gt; Search for and select 'Rulebook' under 'Governance Asset Domain' -&gt; Select desired 'Community' e.g. 'Data Governance Council' -&gt; Input name of Rulebook domain e.g. 'CDQ Rules'
+* Create New Rulebook Domain \(suggested domain type\) for DQ Rules and DQ Metrics
+  * Global Create -&gt; Search for and select 'Rulebook' under 'Governance Asset Domain' -&gt; Select desired 'Community' e.g. 'Data Governance Council' -&gt; Input name of Rulebook domain e.g. 'CDQ Rules', 'CDQ Metrics'
 
 {% hint style="info" %}
 Record your domain resource ID e.g. 2xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx \(can be found in your URL\) for Step 1G
 {% endhint %}
 
-* Create New Business Asset Domains \(suggested domain type\) for DQ Metrics and DQ Dimensions
-  * Global Create -&gt; Search for and select 'Business Asset Domain' under 'Business Asset Domain' -&gt; Select desired 'Community' e.g. 'Data Governance Council' -&gt; Input name of domain e.g. 'Collibra DQ Metrics'
+* Create New Business Asset Domain \(suggested domain type\) for DQ Metrics
+  * Global Create -&gt; Search for and select 'Business Asset Domain' under 'Business Asset Domain' -&gt; Select desired 'Community' e.g. 'Data Governance Council' -&gt; Input name of domain e.g. 'CDQ Dimensions'
   * Record your domain resource ID e.g. 2xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx \(can be found in your URL\)
 
 Option B: Use Existing Domains from existing Rulebook and Asset domains
@@ -125,7 +125,7 @@ Excellent! We've now completed the initial one-time configuration!
 
 ## Step 2: Register Edge Connections to Collibra Catalog
 
-**2A. Create System Asset Within Collibra Catalog To Connect To Edge** 
+**2A. Create System Asset Within Collibra Catalog To Connect To Edge**
 
 ![Global Create -&amp;gt; &apos;System&apos; -&amp;gt; Select Domain -&amp;gt; Enter Name e.g. &apos;postgres-gcp&apos;](https://lh4.googleusercontent.com/e19f1vFffMGQDzgHD1m83C66pG9MwOeJwrd8-Jl42oC9ArjXaCGrwfu_baSzdP4u1xelfB0YWHYA90tsT9g3NFHIE2ULhIdWnkZRUYi8f1sq8EIltYnm_BhC-yVDSknI_9ndGpB0)
 

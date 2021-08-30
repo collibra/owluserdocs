@@ -437,9 +437,9 @@ The JSON for the full dataset definition.  It can be more terse to send in the c
 
 Collibra DQ also exposes the internal API so that all potential operations are available.  The caveat is that these calls may change over time or expose underlying functionality.
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2844%29%20%281%29.png)
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2847%29%20%281%29.png)
 
 ### JWT Token For Auth
 

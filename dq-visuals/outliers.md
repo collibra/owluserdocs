@@ -127,11 +127,11 @@ The following command shows an example of running monthly OwlDQ Checks, from the
 
 The `-br 12` option ran 12 monthly OwlChecks for every month of 2016. The figure below shows OwlCheck Hoot page for the lastest run of dataset `iowa_liquor_sales_by_store_numbers_monthly`. The Hoot page shows that OwlCheck identified 24 Outliers among 4.8k rows of unique date x store\_number for month of December, 2016.
 
-![Monthly OwlCheck for 2016-12-01](../.gitbook/assets/image%20%2841%29.png)
+![Monthly OwlCheck for 2016-12-01](../.gitbook/assets/image%20%2839%29.png)
 
 Since the original data quality issue that inspired us to run OwlCheck is from May 2016, we can navigate to specific run date 2016-05-01 by click on the line graph on top. Then searching for store \#2508 on the **key** column shows outlier detected for **column** `address`. Press \[+\] for that row to see contextual details about this detected value.
 
-![Monthly OwlCheck for 2016-05-01. The drill-in outlier details for store \#2508 is shown](../.gitbook/assets/image%20%2840%29.png)
+![Monthly OwlCheck for 2016-05-01. The drill-in outlier details for store \#2508 is shown](../.gitbook/assets/image%20%2836%29.png)
 
 We can verify that OwlCheck identified the outlier of interest among other 60 data quality issues. Using OwlCheck, you can identify issues at scale for past data \(using backrun\), current \(using simple OwlCheck\), and future \(using scheduled jobs\).
 

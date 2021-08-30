@@ -26,7 +26,7 @@ Access to agents are also handled by the administrator\(s\) within each tenant i
 
 Each agent is visible and editable as an Admin from the UI.
 
-![](../.gitbook/assets/agent.png)
+![](../.gitbook/assets/owl-agent%20%281%29.png)
 
 
 
